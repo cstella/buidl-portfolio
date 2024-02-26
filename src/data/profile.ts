@@ -22,7 +22,7 @@ export const profile = {
     },
     {
       name: "Blog",
-      url: "https://www.stellarmadic.com",
+      url: "https://www.stellarmadic.com/blog",
       icon: "",
     },
     {
