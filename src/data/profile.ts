@@ -33,34 +33,34 @@ export const profile = {
   ],
   projects: [
     {
-      name: 'ETH DENVER BUIDL REPO',
-      description: 'My work at the ETH Denver hackathon',
+      name: 'Kiftables - Kift DAO',
+      description: 'The van NFTs we launched',
       imageUrl: '',
-      url: 'https://github.com/Seroxdesign/buidl-portfolio'
+      url: 'https://kiftdao.xyz/'
     },
     {
-      name: 'Superfluid',
-      description: '',
+      name: 'Kift',
+      description: 'Vanlife, caravan life!',
       imageUrl: '',
-      url: 'https://console.superfluid.finance'
+      url: 'https://www.bloomberg.com/news/features/2022-07-14/van-life-startup-kift-pitches-remote-work-in-national-parks'
     },
     {
-      name: 'Tellor',
-      description: '',
+      name: 'Cabin',
+      description: 'Co-living folks I love to hang with!',
       imageUrl: '',
-      url: 'https://tellor.io'
+      url: 'https://cabin.city/'
     },
     {
-      name: 'Pokt',
-      description: '',
+      name: 'Domi Station',
+      description: 'Once upon a time I helped start an incubator',
       imageUrl: '',
-      url: 'https://pokt.network'
+      url: 'https://www.domistation.org/'
     },
     {
-      name: 'Gitcoin',
-      description: '',
+      name: 'Groundswell',
+      description: 'Another place I love to hang out!',
       imageUrl: '',
-      url: 'https://gitcoin.co'
+      url: 'https://swellstartups.com/'
     }
 
   ]
