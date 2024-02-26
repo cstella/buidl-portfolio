@@ -2,32 +2,32 @@ export const profile = {
   name: "Stellar Madic",
   role: "Welcome to my page!",
   bio: "I'm an aspiring web3 practitioner!  I love vanlife! Donate to me!",
-  imageUrl: "https://i.imgur.com/2m4XIqN.png",
-  address: "0xc0163E58648b247c143023CFB26C2BAA42C9d9A9",
+  imageUrl: "https://imgur.com/gallery/tDuZSO5",
+  address: "0xCdb6Fa37ec70F0E62c842dE9297D566381c649C5",
   links: [
     {
       name: "Twitter",
-      url: "https://twitter.com/seroxdesigns",
+      url: "https://twitter.com/stellarmadic",
       icon: "twitter",
     },
     {
       name: "GitHub",
-      url: "https://github.com/Seroxdesign",
+      url: "https://github.com/cstella",
       icon: "",
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/sero-346b85202/",
+      url: "https://www.linkedin.com/in/connectwithchristineurban/",
       icon: "",
     },
     {
       name: "Blog",
-      url: "https://blog.serotonindesigns.com",
+      url: "https://www.stellarmadic.com",
       icon: "",
     },
     {
-      name: 'Podcast',
-      url: 'https://open.spotify.com/show/2HfqI2dFN85uLLFwGqEk0d?si=f918a9d9ea6f4d38',
+      name: 'Whereabouts',
+      url: 'https://docs.google.com/spreadsheets/d/1TwU-RmkYE8fAn41sjJPiV-jAF5nKGvAu4K3pxDPTtX4/edit?usp=sharing',
       icon: ''
     }
   ],
