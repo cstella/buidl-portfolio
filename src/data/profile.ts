@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Stellar Madic",
+  name: "StellarMadic",
   role: "ENS: stellarmadic.eth",
   bio: "I'm an aspiring web3 practitioner!  I love vanlife! Donate to me!",
   imageUrl: "https://imgur.com/t/van/9yPZTDe",
