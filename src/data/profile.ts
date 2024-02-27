@@ -2,7 +2,7 @@ export const profile = {
   name: "StellarMadic",
   role: "ENS: stellarmadic.eth",
   bio: "I'm an aspiring web3 practitioner!  I love vanlife! Donate to me!",
-  imageUrl: "https://imgur.com/t/van/9yPZTDe",
+  imageUrl: "https://i.imgur.com/Rplwbjx.png",
   address: "0xCdb6Fa37ec70F0E62c842dE9297D566381c649C5",
   links: [
     {
