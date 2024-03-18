@@ -14,7 +14,7 @@ export function SendTransaction() {
 
   return (
     <form onSubmit={submit} className="flex flex-col items-center justify-center space-y-4">
-      <h1 className="text-2xl font-bold">DONATE TO FUND #VANLIFE</h1>
+      <h1 className="text-2xl font-bold">DONATE TO FUND MY WEB3 JOURNEY</h1>
       <input name="value" placeholder="0.05 ETH" required className="p-2 border border-gray-300 rounded" />
       <button type="submit" disabled={isPending} className="p-2 text-white rounded disabled:bg-gray-400 disabled:cursor-not-allowed bg-purple w-100">
         {isPending ? 'Confirming...' : 'Donate'}
